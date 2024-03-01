@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**javiermelom/javiermelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello World 👋, ¡Soy Javier Melo! <br/><a href="https://github.com/javiermelom">Full Stack Developer</a> <a href="https://www.linkedin.com/in/javier-fernando-melo-martinez/"></a>
 
-Here are some ideas to get you started:
+<h2>👩🏽‍💻 Mis Proyectos</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [PokeApi](https://github.com/javiermelom/PokeApi)
+  - [Api Rick & Morty](https://github.com/javiermelom/Trivia-Api-Ricky-and-Morty)
+
+
+<h2>📄 Certificados </h2>
+
+- [Dev.F](https://devf.la/)
+
+<h2> 🤳 Conecta conmigo:</h2>
+
+[<img align="left" alt="JavierMelo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JavierMelo | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>]
+
+[linkedin]: https://linkedin.com/in/javier-fernando-melo-martinez
+
+- 🌱 Actualmente aprendo Python
+- 👯 Estoy en busqueda de trabajo como Programador Remoto/ Hibrido/ Full Time
