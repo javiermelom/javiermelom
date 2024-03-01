@@ -1,5 +1,7 @@
 
-<h1>Hello World 👋, ¡Soy Javier Melo! <br/><a href="https://github.com/javiermelom">Full Stack Developer</a> <a href="https://www.linkedin.com/in/javier-fernando-melo-martinez/"></a>
+<h1>Hello World 👋, 
+<!--
+¡Soy Javier Melo! <br/><a href="https://github.com/javiermelom">Full Stack Developer</a> <a href="https://www.linkedin.com/in/javier-fernando-melo-martinez/"></a>
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
@@ -20,3 +22,4 @@
 
 - 🌱 Actualmente aprendo Python
 - 👯 Estoy en busqueda de trabajo como Programador Remoto/ Hibrido/ Full Time
+-->
